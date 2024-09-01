@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601566320823",
+    "firebase_url": "https://kitchsafenew.firebaseio.com",
+    "project_id": "kitchsafenew",
+    "storage_bucket": "kitchsafenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601566320823:android:52b0b6742a207a56fdd532",
+        "android_client_info": {
+          "package_name": "com.example.kitchsafenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601566320823-umq2ndst454j09s191kcm42ikg5h1111.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitchsafenew",
+            "certificate_hash": "11b07398245e57b6dac0d24dcff21ea27291307c"
+          }
+        },
+        {
+          "client_id": "601566320823-ba34srs1v0jcha54obb0f5kafujbjp1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9LUfgPK5BXaqoeuV8yMcZ1YesKP_M6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601566320823-ba34srs1v0jcha54obb0f5kafujbjp1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
